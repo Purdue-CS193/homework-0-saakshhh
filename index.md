@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Saksham's  First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,9 @@ My name is Saksham Singh.
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Tools
+- The whole course
+- Lectures
 
 1. Numbered
 2. List
